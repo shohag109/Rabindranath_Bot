@@ -1,0 +1,14 @@
+{
+  "name": "rabindranath-ai-bot",
+  "version": "1.0.0",
+  "description": "Facebook Messenger AI Bot using fca-unofficial and Google Gemini",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.2.1",
+    "express": "^4.19.2",
+    "fca-unofficial": "^1.2.11"
+  }
+}
